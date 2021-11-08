@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cpp1103/Header/Huffman_Tree.h
+cstdint
+-
+string
+-
+cstring
+-
+vector
+-
+
+F:/Cpp1103/User/main.cpp
+iostream
+-
+../Header/Huffman_Tree.h
+F:/Cpp1103/Header/Huffman_Tree.h
+
