@@ -1,0 +1,3 @@
+"D:\CSS\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DL1116.dir/objects.a
+D:\CSS\MinGW\mingw\mingw32\bin\ar.exe cr CMakeFiles\DL1116.dir/objects.a @CMakeFiles\DL1116.dir\objects1.rsp
+D:\CSS\MinGW\mingw\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DL1116.dir/objects.a -Wl,--no-whole-archive -o DL1116.exe -Wl,--out-implib,libDL1116.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DL1116.dir\linklibs.rsp

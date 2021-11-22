@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/PROJECT/DL1116/Header/AdjacencyList.h
+iostream
+-
+
+F:/PROJECT/DL1116/User/AdjacencyList.cpp
+../Header/AdjacencyList.h
+F:/PROJECT/DL1116/Header/AdjacencyList.h
+cstring
+-
+queue
+-
+
