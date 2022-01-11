@@ -1,3 +1,0 @@
-F:/PROJECT/DL1203/cmake-build-debug/CMakeFiles/DL1203.dir
-F:/PROJECT/DL1203/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/PROJECT/DL1203/cmake-build-debug/CMakeFiles/rebuild_cache.dir

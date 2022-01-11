@@ -1,3 +1,0 @@
-D:\JetBrains\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\DL1203.dir/objects.a
-D:\JetBrains\apps\CLion\ch-0\213.5744.254\bin\mingw\bin\ar.exe qc CMakeFiles\DL1203.dir/objects.a @CMakeFiles\DL1203.dir\objects1.rsp
-D:\JetBrains\apps\CLion\ch-0\213.5744.254\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DL1203.dir/objects.a -Wl,--no-whole-archive -o DL1203.exe -Wl,--out-implib,libDL1203.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DL1203.dir\linklibs.rsp
